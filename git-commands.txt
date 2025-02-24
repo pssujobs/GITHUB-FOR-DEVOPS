@@ -1,0 +1,14 @@
+1] git init
+2] git status
+3] git add <filename>
+4] git commit -m "First Commit"
+5] git restore <filename>
+
+6] git remote add origin https://github.com/pssujobs/GITHUB-FOR-DEVOPS.git
+7]  git remote -v
+			origin  https://github.com/pssujobs/GITHUB-FOR-DEVOPS.git (fetch)
+			origin  https://github.com/pssujobs/GITHUB-FOR-DEVOPS.git (push) 
+
+
+
+
