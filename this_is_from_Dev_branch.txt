@@ -13,3 +13,4 @@ Switched to a new branch 'Dev'
 4] root@k8smaster:/GITHUB-FOR-DEVOPS# git switch Dev
 Switched to branch 'Dev'
 
+5] Merging the Dev and Master and Vice versa
