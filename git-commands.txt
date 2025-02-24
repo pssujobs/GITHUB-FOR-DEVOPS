@@ -11,4 +11,7 @@
 
 
 
+8] PAT: ghp_CleyNIl2gS0DYmd
+9] git remote set-url origin https://ghp_CleyNIl2gS0DYmd@github.com/pssujobs/GITHUB-FOR-DEVOPS
 
+10]  git push origin master
