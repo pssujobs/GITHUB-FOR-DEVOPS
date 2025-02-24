@@ -1,0 +1,15 @@
+Branches:
++++++++++++++++
+1] root@k8smaster:/GITHUB-FOR-DEVOPS# git branch
+    * master
+
+2] root@k8smaster:/GITHUB-FOR-DEVOPS# git checkout -B Dev
+Switched to a new branch 'Dev'
+
+3] root@k8smaster:/GITHUB-FOR-DEVOPS# git branch
+  Dev
+* master
+
+4] root@k8smaster:/GITHUB-FOR-DEVOPS# git switch Dev
+Switched to branch 'Dev'
+
